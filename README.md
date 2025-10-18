@@ -8,6 +8,7 @@ whoami
 - **[Simulink Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1fdbb4b3-6568-4fa6-8764-dde85df1464c&)**
 - **[Simscape Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1c58d4f9-9703-455d-8463-9231a2ec0f6b&)**
 - **[Control Design Onramp with Simulink](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=86b2859d-6e64-48d5-ab0b-c74573eab296&)**
+- **[Circuit Simulation Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=0271770d-9170-47d9-a727-81e0e8cc923f&)**
 
 <!--
 **rickb3n/rickb3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
