@@ -10,6 +10,8 @@ whoami
 - **[Control Design Onramp with Simulink](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=86b2859d-6e64-48d5-ab0b-c74573eab296&)**
 - **[Circuit Simulation Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=0271770d-9170-47d9-a727-81e0e8cc923f&)**
 
+![rickb3n popular projects image](https://raw.githubusercontent.com/rickb3n/rickb3n/main/pop_repo.jpg)
+
 <!--
 **rickb3n/rickb3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
