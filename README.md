@@ -9,7 +9,7 @@ whoami
 - **[Simscape Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1c58d4f9-9703-455d-8463-9231a2ec0f6b&)**
 - **[Control Design Onramp with Simulink](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=86b2859d-6e64-48d5-ab0b-c74573eab296&)**
 - **[Circuit Simulation Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=0271770d-9170-47d9-a727-81e0e8cc923f&)**
-- **[Calculations with Vectors and Matrices]([https://matlabacademy.mathworks.com/progress/share/certificate.html?id=0271770d-9170-47d9-a727-81e0e8cc923f&])**
+- **[Calculations with Vectors and Matrices](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=0271770d-9170-47d9-a727-81e0e8cc923f&)**
 
 ![rickb3n popular projects image](https://raw.githubusercontent.com/rickb3n/rickb3n/main/pop_repo.jpg)
 
